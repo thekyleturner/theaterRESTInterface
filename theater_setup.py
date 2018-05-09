@@ -1,3 +1,6 @@
+# This code was hastily written and only run the first time "main.py"
+# is run-that is it could be deleted but keeping it in for posterity
+
 import theater_classes as tc
 
 def get_cid(row,seat):
